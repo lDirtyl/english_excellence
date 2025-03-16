@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/vanilla-app-template/",
+    "build": "vite build --base=/english_excellence/",
     "preview": "vite preview"
   },
   "devDependencies": {
@@ -17,6 +17,9 @@
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
   "license": "ISC",
   "dependencies": {
+    "aos": "^2.3.4",
+    "imask": "^7.6.1",
+    "swiper": "^11.2.5",
     "vite-plugin-full-reload": "^1.2.0",
     "vite-plugin-html-inject": "^1.1.2"
   }
